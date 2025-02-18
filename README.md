@@ -36,15 +36,17 @@ Output
 
 wellcome screen
 
-
+![Screenshot from 2025-02-18 18-28-08](https://github.com/user-attachments/assets/49f3ee3c-14b0-4a22-9250-64c9033e9918)
 
 Home page
 
-
-
+![Screenshot from 2025-02-18 18-28-44](https://github.com/user-attachments/assets/7a3fe83b-6198-46a8-81c4-242ec40f5b4d)
 
 
 When user gives input it outputs total marks and percentage.
+
+![Screenshot from 2025-02-18 18-32-52](https://github.com/user-attachments/assets/88630f95-4277-4aad-adbf-275d4a34c33a)
+
 
 
 
